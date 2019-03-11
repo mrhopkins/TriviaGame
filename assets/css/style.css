@@ -8,11 +8,11 @@ body{
 	background: url('../images/background.jpeg');
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 25px;
-    color: yellow;
+    color: #FFD166;
 }
 
 .btn-primary,.reset{
-	background-color: green;
+	background-color: #06D6A0;
 	color: white;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	font-size: 30px;
@@ -20,7 +20,7 @@ body{
 	margin-top: 100px;
 }
 .btn-primary:hover, .reset:hover{
-    background-color: red;
+    background-color: #EF476F;
     color: white;
 }
 
@@ -37,7 +37,7 @@ h2, #message, #finalMessage{
 }
 
 .thisChoice:hover{
-	background-color: rebeccapurple;
+	background-color: #118AB2;
 	color: white;
 	padding: 10px;
 }
