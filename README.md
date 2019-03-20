@@ -2,6 +2,8 @@
 
 https://mrhopkins.github.io/TriviaGame/
 
-### Overview
-
 In this assignment...
+
+### Check me out on LinkedIn!
+
+https://linkedin.com/in/matthewrhopkins/
